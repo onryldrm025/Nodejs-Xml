@@ -1,0 +1,23 @@
+<html>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th >No</th>
+                <th >Adı</th>
+                <th>Soyadı</th>
+                <th>Telefon</th>
+            </tr>
+        </thead>
+        <% for(var i=0; i < datalist.length; i++) { %>
+           <tr>
+             <td><%= datalist[i].Id %></td>
+             <td><%= datalist[i].Adi %></td>
+             <td><%= datalist[i].Soyadi %></td>
+             <td><%= datalist[i].Telefon %></td>
+           </tr>
+        <% } %>
+        </table>
+</body>
+</html>

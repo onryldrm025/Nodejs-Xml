@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Kisi>
+    <Id>1</Id>
+    <Adi>Ahmet</Adi>
+    <Soyadi>Yılmaz</Soyadi>
+    <Telefon>555</Telefon>
+  </Kisi>
+  <Kisi>
+    <Id>2</Id>
+    <Adi>Mehmet</Adi>
+    <Soyadi>Yılmaz</Soyadi>
+    <Telefon>457</Telefon>
+  </Kisi>
+  <Kisi>
+    <Id>3</Id>
+    <Adi>Selami</Adi>
+    <Soyadi>Şahin</Soyadi>
+    <Telefon>788</Telefon>
+  </Kisi>
+  <Kisi>
+    <Id>4</Id>
+    <Adi>Ahmet</Adi>
+    <Soyadi>Akbulut</Soyadi>
+    <Telefon>456</Telefon>
+  </Kisi>
+  <Kisi>
+    <Id>5</Id>
+    <Adi>Birol</Adi>
+    <Soyadi>Tercan</Soyadi>
+    <Telefon>111</Telefon>
+  </Kisi>
+</Data>
