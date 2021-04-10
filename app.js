@@ -19,5 +19,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(8000, () => {
-    console.log('Server Çalısıyor')
+    console.log('Server Çalısıyor...')
 })
